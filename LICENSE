@@ -1,21 +1,47 @@
-MIT License
+Elastic License 2.0
 
 Copyright (c) 2025 Attila Macskasy
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Acceptance
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By using the software, you agree to all of the terms and conditions below.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Permission
+
+Subject to the conditions below, you may use, copy, modify, and distribute this software, in all forms, for any purpose, except as specified below.
+
+## Conditions
+
+1. You may not provide the software to others as a managed service. A “managed service” is a commercial offering that allows third parties (other than your employees and contractors) to access the software remotely.
+
+2. You may not circumvent the limitations in this License or remove or obscure any functionality in the software.
+
+3. You may use the software to provide services to third parties as long as the services are not a managed service.
+
+4. You must include a copy of this License with every copy of the software you distribute.
+
+5. You must not remove or alter any licensing notices (including copyright notices, references to this License, and disclaimers) in the software.
+
+## Patents
+
+The Licensor grants you a license, under any patent claims the Licensor can license, to make, have made, use, sell, offer for sale, import, and distribute the software. This license is granted only for the software as provided by the Licensor, not for modifications you make.
+
+## Trademarks
+
+This License does not grant you any right in the Licensor’s trademarks, trade names, service marks, or product names.
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE LICENSOR DISCLAIMS ALL LIABILITY FOR DAMAGES, INCLUDING DIRECT, INDIRECT, SPECIAL, INCIDENTAL, AND CONSEQUENTIAL DAMAGES, RESULTING FROM THE USE OF THE SOFTWARE.
+
+## Termination
+
+If you violate the terms of this License, your rights under this License will terminate automatically.
+
+## Severability
+
+If any provision of this License is determined to be unenforceable, the remaining provisions will remain effective.
+
+## Governing Law
+
+This License is governed by the laws of the jurisdiction where the Licensor is located, excluding its conflict of law rules.
