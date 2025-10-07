@@ -1,2 +1,2 @@
 # common
-An initiative to create a scalable and modular open-source ERP system leveraging cutting-edge technology :)
+AI-assisted learning of modern web frameworks to build a production-ready SaaS portal.
